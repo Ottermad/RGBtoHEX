@@ -1,11 +1,5 @@
-form {
+form, input, form input {
     margin:0;
     padding:0;
-    display:inline;
-}
-
-input {
-    margin:0;
-    padding:0;
-    display:inline;
+    display:inline!important;
 }
