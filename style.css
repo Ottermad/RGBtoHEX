@@ -1,0 +1,5 @@
+form, input, form input {
+    margin:0;
+    padding:0;
+    display:inline!important;
+}
