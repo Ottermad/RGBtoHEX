@@ -1,3 +1,4 @@
 RGBtoHEX
 ========
-A simple app that converts an rgb value to hex. It uses php for twilio(SMS code framework (www.twilio.com)) and has a web form interface
+A PHP script that allows the user to text +442033895731 with a 9 digit RGB value and then recieve the Hexadecimal 
+version of the number via text. It also features a web interface written in HTML with the same functionality.  
